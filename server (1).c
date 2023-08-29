@@ -1,9 +1,3 @@
-//***Advanced Systems Programming--Project***
-//***Section--2 Tuesday(8:30 AM)***
-//***Team Members:-***
-//***Raja Babu-110097342***
-//***Darsh Vishvas Kothari-110093800***
-
 // below 2 enables extensions in glibc library
 #define _XOPEN_SOURCE
 #define _GNU_SOURCE
