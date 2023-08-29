@@ -1,9 +1,3 @@
-//***Advanced Systems Programming--Project***
-//***Section--2 Tuesday(8:30 AM)***
-//***Team Members:-***
-//***Raja Babu-110097342***
-//***Darsh Vishvas Kothari-110093800***
-
 //***Below are the appropriate header files used in the program***
 //***The below line of code includes headerFile for stndrd Inp/Op library   
 #include <stdio.h>
